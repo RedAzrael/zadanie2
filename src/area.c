@@ -1,5 +1,5 @@
-include <stdio.h>
+#include <stdio.h>
 float area(float a)
 {
-	return a*a
+	return a*a;
 }
